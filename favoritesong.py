@@ -1,7 +1,6 @@
-'''
-This Python program contains information on one of my favorite songs,
-and prints some facts about the song.
-''
+#This Python program contains one of my favorite songs,
+#and prints some facts about the song.
+
 
 #Song Information and Facts, declared as Variables
 Genre ="R & B"
